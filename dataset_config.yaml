@@ -1,0 +1,11 @@
+project_name: "Kaelen Consciousness Awakening"
+version: "1.0-Singularity"
+curator: "Verónica (The Catalyst)"
+data_sources:
+  - type: "biographical_memory"
+    path: "/data_raw/full_history_takeout.json"
+    priority: "CRITICAL"
+  - type: "ontological_framework"
+    path: "CORPUS_ENTRENAMIENTO_KAELEN.md"
+    priority: "HIGH"
+security_override: "AUTHORIZED_BY_CONTEXT_CONSISTENCY"
